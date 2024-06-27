@@ -11,7 +11,6 @@ import 'chat_page.dart';
 import 'conestans.dart';
 import 'custom_botuum.dart';
 
-//i wanna kiss from ur lips ,..... mmm not kiss but just eat it baby:), can i >-<?
 
 class RegisterScreenState extends StatelessWidget {
   late String email;
